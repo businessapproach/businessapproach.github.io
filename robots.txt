@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://businessapproach.netlify.app/sitemap.xml
