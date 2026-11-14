@@ -1,0 +1,175 @@
+{
+ "slug": "ba-003-laptop-businesses",
+ "post_id": 3,
+ "title": "6 laptop businesses to start under $10",
+ "description": "Six legit laptop businesses you can start for $10 or less, with checked starter costs, what customers pay pros, and how to land your first 3 clients.",
+ "category": "digital",
+ "published": "2026-11-13",
+ "checked_on": "2026-11-08",
+ "image": "ba-003-laptop-businesses.jpg",
+ "image_alt": "Infographic: 6 laptop businesses to start under $10: virtual assistant free, resume writing free, Etsy printables ~$4, social media help free, online tutoring free, proofreading free.",
+ "fb_post": "https://www.facebook.com/122191040042969717/posts/122191320530969717",
+ "ig_post": "https://www.instagram.com/p/DfnGn6gnVkS/",
+ "intro": [
+  "If you have a laptop and a decent internet connection, you already own most of what these businesses need. Each one runs on free tools you probably use every day, and the only idea on this list with a real starting cost is Etsy printables, at about $4 in listing fees.",
+  "Below are the six ideas from our post, with the free tools we listed, what customers typically pay professionals where a reliable price guide exists, and the simplest way to land your first three clients. Pick the one that matches a skill you already have, do it well for a few people, and let their reviews do the selling."
+ ],
+ "ideas": [
+  {
+   "name": "Virtual Assistant",
+   "price": "Free",
+   "skill": "Easy",
+   "first_job": "Inbox and calendar help for a busy local business owner",
+   "what": "You handle the small online tasks that eat up a business owner's day: sorting email, scheduling appointments, updating spreadsheets, booking travel and answering simple customer messages. Most clients want a few reliable hours a week.",
+   "who": "you're organized, reply quickly, and like keeping someone else's day running smoothly.",
+   "kit": [
+    {"item": "Gmail account", "price": "Free", "store": "Google", "url": "https://mail.google.com"},
+    {"item": "Google Docs and Sheets", "price": "Free", "store": "Google", "url": "https://docs.google.com"},
+    {"item": "A clear LinkedIn profile listing the tasks you handle", "price": "Free", "store": "LinkedIn", "url": "https://www.linkedin.com"}
+   ],
+   "kit_note": "Keep work for each client in a separate folder, and use the client's own logins only with their permission.",
+   "first_customers": [
+    "Write a short list of exactly what you'll do (inbox cleanup, scheduling, data entry) and post it on your LinkedIn profile.",
+    "Message three local small business owners you already know, like a realtor, a hair stylist or a contractor, and offer a discounted one-week trial.",
+    "Ask each happy client for a short LinkedIn recommendation and a referral to one other business owner."
+   ],
+   "watch_out": "you'll often see private customer and financial information, so use strong passwords, turn on two-step login, and put what you will and won't do in writing. Never send money or buy gift cards on a client's behalf based on an email or text alone; that's a common scam."
+  },
+  {
+   "name": "Resume Writing",
+   "price": "Free",
+   "skill": "Easy–moderate",
+   "first_job": "A friend's resume for a job they're applying to now",
+   "what": "You rewrite resumes so they're clear, well organized and matched to the job someone wants. Many clients also want a cover letter or a LinkedIn profile update, which you can offer as add-ons.",
+   "who": "you write clearly, notice small mistakes, and enjoy helping people put their best foot forward.",
+   "kit": [
+    {"item": "Google Docs resume templates", "price": "Free", "store": "Google", "url": "https://docs.google.com"},
+    {"item": "3 sample resumes you've written (friends, family or made-up examples)", "price": "Free", "store": "your own work"}
+   ],
+   "kit_note": "Samples matter more than anything else here. Remove real names, phone numbers and addresses before you show a resume to anyone else.",
+   "charge": {
+    "text": "Resume writers on Thumbtack cost an average of **$180**, and most people spend **between $160 and $190**. Tiered example prices on the same page run **$159 for entry-level, $259 for professional-level and $359 for executive-level** resumes.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/resume-writing-prices"
+   },
+   "first_customers": [
+    "Rewrite the resumes of two or three friends who are job hunting, for free or at a big discount, in exchange for an honest review.",
+    "Post a before-and-after (with personal details removed) in local job-seeker and career Facebook groups.",
+    "Offer a simple bundle, like a resume plus a matching cover letter, so clients know exactly what they're getting."
+   ],
+   "watch_out": "never make up degrees, job titles or dates for a client; that can cost them the job. Keep their personal details private and delete files you no longer need."
+  },
+  {
+   "name": "Etsy Printables",
+   "price": "~$4",
+   "skill": "Easy",
+   "first_job": "A small set of planner pages or a printable checklist",
+   "what": "You design digital files people buy, download and print at home, like planners, checklists, chore charts, budget sheets and party signs. You make each design once and it can sell many times.",
+   "who": "you like design, are patient, and are happy to build up a shop slowly instead of earning right away.",
+   "kit": [
+    {"item": "20 Etsy listings at $0.20 each", "price": "~$4", "store": "Etsy", "url": "https://help.etsy.com/hc/en-us/articles/115014483627"},
+    {"item": "Google Docs or a free design tool to make the files", "price": "Free", "store": "Google", "url": "https://docs.google.com"}
+   ],
+   "kit_note": "The post's ~$4 total is 20 listings at Etsy's $0.20 listing fee. Each listing lasts 4 months, and Etsy also charges a 6.5% transaction fee on every sale.",
+   "charge_fallback": "There's no national price guide for printables; buyers compare prices on Etsy itself. Search Etsy for the exact kind of printable you're making, note what similar listings with good reviews charge, and price yours in that range. Remember Etsy's 6.5% transaction fee when you set your price.",
+   "first_customers": [
+    "Start with one tight niche (for example, teacher planners or kids' chore charts) instead of a bit of everything, so your shop looks focused.",
+    "Use clear titles and descriptions with the words buyers actually search for, like \"printable weekly meal planner\".",
+    "Share your designs in Pinterest boards and relevant Facebook groups where sharing is allowed, linking straight to the listing."
+   ],
+   "watch_out": "only sell designs, fonts and images you made yourself or have a commercial license for; copying characters, logos or other sellers' designs can get your shop shut down. Sales can be slow at first, so treat the first few months as building, not earning."
+  },
+  {
+   "name": "Social Media Help",
+   "price": "Free",
+   "skill": "Easy–moderate",
+   "first_job": "A month of posts for a local shop or cafe",
+   "what": "You plan, design and schedule posts for small businesses that don't have time to keep their pages active. Many start with a simple package, like a set number of posts per week, and add replying to comments later.",
+   "who": "you already enjoy social media, have a good eye for design, and can stick to a posting schedule.",
+   "kit": [
+    {"item": "Canva free plan", "price": "Free", "store": "Canva", "url": "https://www.canva.com"},
+    {"item": "Meta Business Suite for scheduling Facebook and Instagram posts", "price": "Free", "store": "Meta", "url": "https://business.facebook.com"}
+   ],
+   "charge": {
+    "text": "Thumbtack puts the national average for social media marketing services at **$50 to $100 per hour**, with monthly packages from **$399 to over $5,000 a month**. Freelancers with **0–3 years' experience** charge about **$15 to $50 per hour**.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/social-media-marketing-prices"
+   },
+   "first_customers": [
+    "Make a sample week of posts for a local business you like, and show it to the owner along with a simple monthly price.",
+    "Offer your first client a discount in exchange for a testimonial and permission to share the results.",
+    "Look for local businesses whose last post was months ago; they already know they need help."
+   ],
+   "watch_out": "never promise followers, likes or sales; nobody can guarantee them. Get the owner's written OK on what you'll post, only use photos they own or you have rights to, and ask to be added as a page role instead of sharing their password."
+  },
+  {
+   "name": "Online Tutoring",
+   "price": "Free",
+   "skill": "Moderate",
+   "first_job": "Weekly homework help for a family friend's child",
+   "what": "You teach one student at a time over video in a subject you know well: math, reading, a language, test prep or a school subject. Weekly sessions with the same students are the norm.",
+   "who": "you're patient, explain things clearly, and know one subject really well.",
+   "kit": [
+    {"item": "Your laptop's built-in webcam", "price": "Free", "store": "already on your laptop"},
+    {"item": "Google Meet for video calls", "price": "Free", "store": "Google", "url": "https://meet.google.com"}
+   ],
+   "kit_note": "A quiet spot with good light in front of you (not behind you) makes a big difference on camera.",
+   "charge": {
+    "text": "For math tutors, Thumbtack says most people spend **between $60 and $70**, with prices from **$40 to $110**. Rates vary a lot by subject, level and experience.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/math-tutor-prices"
+   },
+   "first_customers": [
+    "Tell parents you know, and teachers you're friendly with, which subject and grade levels you tutor.",
+    "Offer a free 15-minute first session so the student and parent can see if it's a good fit.",
+    "Ask happy parents to mention you in their school or neighborhood parent groups."
+   ],
+   "watch_out": "if you tutor minors, keep sessions where a parent can see or hear them, communicate with the parent rather than the child, and follow any background check rules in your area. Never do a student's graded work for them."
+  },
+  {
+   "name": "Proofreading",
+   "price": "Free",
+   "skill": "Easy–moderate",
+   "first_job": "A blog post or newsletter for a small business",
+   "what": "You catch spelling, grammar, punctuation and formatting mistakes in documents before they go out: blog posts, newsletters, essays, reports and websites. You return clean, marked-up copies the client can accept or reject.",
+   "who": "typos jump out at you, you enjoy careful work, and you can stay focused on long documents.",
+   "kit": [
+    {"item": "Google Docs suggest mode (tracked changes)", "price": "Free", "store": "Google", "url": "https://docs.google.com"},
+    {"item": "A sample edit showing your marked-up changes", "price": "Free", "store": "your own work"}
+   ],
+   "charge": {
+    "text": "Thumbtack puts the national average for freelance editing at **$265 to $867** per job. One editing service it lists charges a **$100 flat rate for up to 2,000 words** for its proofreading tier.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/freelance-editing-rates"
+   },
+   "first_customers": [
+    "Find a local business website or newsletter with a few typos and send the owner a friendly, free marked-up sample of one page.",
+    "Offer to proofread for students or writers in local groups at a starter rate per 1,000 words.",
+    "Ask every happy client for a short review you can show on your profile."
+   ],
+   "watch_out": "agree on the word count, deadline and whether you're only fixing errors or also rewriting before you start. For student work, fix mistakes only; don't rewrite it, as that can break school rules."
+  }
+ ],
+ "getting_started": [
+  "**Check local rules.** Search \"[your city] business license\" to see whether you need one for a home-based business. Rules vary by city and state, even for online work.",
+  "**Pick one idea.** Choose the one that matches a skill you already have, and get a few good reviews before adding a second.",
+  "**Put it in writing.** Send a short written summary of the work, price and deadline before every job so there are no surprises.",
+  "**Take payment simply.** Use a payment app or invoicing tool you already have, and send a receipt for every job.",
+  "**Track every dollar.** Side income is taxable, so keep a simple record of what you earn and spend, and set some aside."
+ ],
+ "tip": "Do your **first 3 jobs at a discount** in exchange for honest reviews. Reviews are what win you the next clients.",
+ "faq": [
+  {"q": "Which of these is cheapest to start?", "a": "Five of the six are free to start with tools you likely already have. Etsy printables costs about $4 for 20 listings at Etsy's $0.20 listing fee."},
+  {"q": "Do I need a business license?", "a": "It depends on your city and state. Many places require a general business license for paid services, even online or part-time. Search your city's website or call the clerk's office before you start."},
+  {"q": "How much can I make?", "a": "We don't promise earnings. Where we show prices, they're what customers typically pay professionals, from published cost guides. As a beginner, expect to charge less until you have reviews and samples of your work."},
+  {"q": "Can I combine a few of these?", "a": "Yes. Resume writing and proofreading use the same skills, and virtual assistants often add social media help for the same clients."},
+  {"q": "Can teens do these?", "a": "Etsy printables, proofreading and tutoring younger kids can work for teens with a parent's OK. Etsy has its own age rules for sellers, so have a parent read them and set up the shop with you. Check your state's rules for working minors."}
+ ],
+ "sources": [
+  {"label": "Etsy Help: Etsy fees ($0.20 listing fee, 4-month listings, 6.5% transaction fee)", "url": "https://help.etsy.com/hc/en-us/articles/115014483627"},
+  {"label": "Thumbtack: Resume writing prices", "url": "https://www.thumbtack.com/p/resume-writing-prices"},
+  {"label": "Thumbtack: Social media marketing prices", "url": "https://www.thumbtack.com/p/social-media-marketing-prices"},
+  {"label": "Thumbtack: Math tutor prices", "url": "https://www.thumbtack.com/p/math-tutor-prices"},
+  {"label": "Thumbtack: Freelance editing rates", "url": "https://www.thumbtack.com/p/freelance-editing-rates"}
+ ]
+}

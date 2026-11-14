@@ -158,6 +158,8 @@ def guide_page(g):
         if i.get("charge"):
             c = i["charge"]
             charge = f'<h3>What customers pay pros</h3><p>{rich(c["text"])} <span class="sources">(<a href="{E(c["url"])}" rel="noopener">{E(c["source"])}</a>)</span></p><p>As a beginner, quote below that range until you have reviews and photos of your work.</p>'
+        elif i.get("charge_fallback"):
+            charge = f'<h3>What to charge</h3><p>{rich(i["charge_fallback"])}</p>'
         else:
             charge = '<h3>What to charge</h3><p>We could not find a reliable national price guide for this one. Search your ZIP code on Thumbtack or Nextdoor and price yourself just under local listings.</p>'
         steps = "".join(f"<li>{rich(s)}</li>" for s in i["first_customers"])
