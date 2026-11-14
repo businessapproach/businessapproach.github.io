@@ -1,0 +1,250 @@
+{
+ "slug": "ba-004-tech-help-businesses",
+ "post_id": 4,
+ "title": "6 tech-help businesses to start under $30",
+ "description": "Six legit tech-help businesses you can start for under $30, with checked starter costs, what customers pay pros, and how to land your first 3 clients.",
+ "category": "tech",
+ "published": "2026-11-14",
+ "checked_on": "2026-11-10",
+ "image": "ba-004-tech-help-businesses.jpg",
+ "image_alt": "Infographic: 6 tech-help businesses to start under $30: smart home help ~$12, TV setup ~$13, remote tech help free, photo backup ~$26, laptop cleanup ~$11, Wi-Fi fixes ~$30.",
+ "fb_post": "https://www.facebook.com/122191040042969717/posts/122191463348969717",
+ "ig_post": "https://www.instagram.com/p/DfprZ3-FH6n/",
+ "intro": [
+  "Every holiday season, millions of people unwrap a gadget they don't know how to set up: a smart speaker, a new TV, a doorbell camera, a laptop for a parent. If you're the friend everyone already calls for tech help, you can turn that patience into a small, legit service business with almost no money up front.",
+  "Below are the six ideas from our post, with the starter tool we priced on a real store page, what customers pay professionals where we could find a reliable published number, and the simplest way to land your first three customers. You don't need certifications to start with basic setups, but you do need to be honest about what you can and can't fix."
+ ],
+ "ideas": [
+  {
+   "name": "Smart Home Help",
+   "price": "~$12",
+   "skill": "Easy–moderate",
+   "first_job": "Setting up a relative's new smart speaker and smart plugs",
+   "what": "You unbox and set up plug-in smart home gear: smart speakers, smart plugs and bulbs, battery video doorbells and cameras, and connect them to the customer's phone app and Wi-Fi. Then you show them how to use it.",
+   "who": "you like gadgets, read instructions so other people don't have to, and are good at explaining things simply.",
+   "kit": [
+    {
+     "item": "Hyper Tough 29-piece precision screwdriver set",
+     "price": "~$12",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/16401252274",
+     "amazon": "precision screwdriver set"
+    }
+   ],
+   "kit_note": "Stick to plug-in and battery devices at first. Anything that needs new wiring (hardwired doorbells, light switches, thermostats on some systems) is a job for a licensed electrician or HVAC pro in many areas.",
+   "charge": {
+    "text": "**Most professionals charge $80 to $100 an hour for smart home set up and installation.**",
+    "source": "Fixr",
+    "url": "https://www.fixr.com/costs/home-automation"
+   },
+   "first_customers": [
+    "Set up your own or a family member's smart speaker, plugs and doorbell, and take a short video of everything working from the phone.",
+    "Post a flat-price \"new gadget setup\" offer in your neighborhood Facebook group or on Nextdoor the week after the holidays.",
+    "Ask older neighbors and their adult kids; many parents get smart devices as gifts and never set them up."
+   ],
+   "watch_out": "don't open electrical boxes or touch household wiring unless you're licensed to; check your local rules. Never ask for or write down a customer's passwords; let them type their own Wi-Fi and account passwords."
+  },
+  {
+   "name": "TV Setup",
+   "price": "~$13",
+   "skill": "Easy",
+   "first_job": "Connecting a neighbor's new TV, streaming apps and soundbar",
+   "what": "You set up new TVs on a stand: connect cables, game consoles and soundbars, sign in to streaming apps, tune the picture settings and set up the remote. Mounting on a wall is a separate, harder job you can add later.",
+   "who": "you know your way around HDMI ports and streaming apps and enjoy getting everything working in one visit.",
+   "kit": [
+    {
+     "item": "onn. 6 ft Ultra High Speed HDMI cable",
+     "price": "~$13",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/5067541423",
+     "amazon": "6 ft ultra high speed HDMI cable"
+    }
+   ],
+   "kit_note": "Keep a spare HDMI cable in your bag; a missing or too-short cable is the most common hold-up on setup day.",
+   "first_customers": [
+    "Offer a flat \"new TV setup\" price in local groups right after Black Friday and the holidays, when new TVs arrive.",
+    "Leave a card at small local electronics or appliance shops that don't offer setup.",
+    "Ask every customer if a family member got a new TV too; setups often come in pairs."
+   ],
+   "watch_out": "big TVs are heavy and fragile, so lift with a second person and never leave a TV on a stand where it can tip; use the anti-tip strap if one is included. Don't wall-mount until you've learned it properly, and make clear in your quote what's included."
+  },
+  {
+   "name": "Remote Tech Help",
+   "price": "Free",
+   "skill": "Easy–moderate",
+   "first_job": "Walking a grandparent through their new phone over a video call",
+   "what": "You help people with everyday tech problems over a video call: setting up email, fixing phone settings, installing apps, explaining video calls or online banking apps. No travel, so you can help people anywhere.",
+   "who": "you're patient, explain things without jargon, and want the cheapest possible start.",
+   "kit": [
+    {
+     "item": "Google Meet free plan (1:1 calls)",
+     "price": "Free",
+     "store": "Google",
+     "url": "https://workspace.google.com/products/meet/"
+    }
+   ],
+   "kit_note": "Google's free plan has no time limit on 1:1 calls (group calls are capped at 60 minutes). You'll also need a computer or phone and a reliable internet connection, which you probably already have.",
+   "charge": {
+    "text": "The national average cost of tech support services ranges from **around $128-$425**, according to Thumbtack data. One provider Thumbtack profiles offers **remote technology support for $109.99**.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/tech-support-prices"
+   },
+   "first_customers": [
+    "Offer a few free 30-minute sessions to friends' parents or grandparents in exchange for an honest review.",
+    "Post in local community and senior-center groups with a simple per-session price.",
+    "Write a one-page \"how to join a video call\" guide and give it to every customer; they'll share it and your name."
+   ],
+   "watch_out": "scammers pretend to be tech support, so customers will rightly be wary. Never ask for passwords, banking details or payment card numbers, and don't use remote-control software unless the customer clearly understands and agrees. Explain how you'll be paid before the session."
+  },
+  {
+   "name": "Photo Backup",
+   "price": "~$26",
+   "skill": "Easy",
+   "first_job": "Backing up a friend's phone photos before they upgrade",
+   "what": "You help people copy years of photos and videos off old phones, cameras and computers onto a USB drive or cloud account, organize them into folders by year, and set up automatic backup so nothing gets lost again.",
+   "who": "you're organized, careful with other people's memories, and don't mind repetitive work.",
+   "kit": [
+    {
+     "item": "SanDisk Ultra Flair 128GB USB 3.0 flash drive",
+     "price": "~$26",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/130842696",
+     "amazon": "SanDisk Ultra Flair 128GB USB flash drive"
+    }
+   ],
+   "kit_note": "The drive is your working tool. For big libraries, customers can buy their own drive or cloud storage so their photos stay with them.",
+   "first_customers": [
+    "Back up and organize your own family's photos first, so you can show a before-and-after folder structure.",
+    "Pitch it as a holiday gift: \"I'll save Grandma's photos\" is easy to say yes to.",
+    "Ask phone repair shops and senior centers if you can leave a flyer."
+   ],
+   "watch_out": "photos are private. Only copy what the customer asks for, don't keep copies after the job, and wipe your working drive when you're done. Always copy, never move, until the customer has checked the backup."
+  },
+  {
+   "name": "Laptop Cleanup",
+   "price": "~$11",
+   "skill": "Easy–moderate",
+   "first_job": "Cleaning and speeding up a family member's slow laptop",
+   "what": "You blow dust out of vents and keyboards, wipe screens, remove unwanted startup programs, run updates, and tidy up storage so a slow laptop runs better. It's a simple tune-up, not a hardware repair.",
+   "who": "you're comfortable in Windows or macOS settings and like making old things work again.",
+   "kit": [
+    {
+     "item": "Dust-Off 10 oz compressed air duster",
+     "price": "~$11",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/15079082",
+     "amazon": "compressed air duster 10 oz"
+    }
+   ],
+   "kit_note": "Leave anything that means opening the case, replacing parts or recovering lost data to a repair shop until you've been trained.",
+   "charge": {
+    "text": "One tech support provider Thumbtack profiles charges **an hourly rate of $109.99 for laptop repair** provided at your home or office, and lists laptop tune-ups (including dust removal) among its services.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/tech-support-prices"
+   },
+   "first_customers": [
+    "Tune up a few laptops for friends and note how long startup took before and after; a real number sells the service.",
+    "Offer a back-to-school or new-year \"laptop refresh\" price to local parents.",
+    "Ask small offices nearby if they have a few slow laptops you can clean for a flat price."
+   ],
+   "watch_out": "shut the laptop down and unplug it before cleaning, spray in short bursts with the can upright, and hold fans still so they don't over-spin. Back up the customer's files (or confirm they have a backup) before changing any settings."
+  },
+  {
+   "name": "Wi-Fi Fixes",
+   "price": "~$30",
+   "skill": "Moderate",
+   "first_job": "Fixing a dead Wi-Fi spot in a friend's back bedroom",
+   "what": "You find and fix weak Wi-Fi: move the router to a better spot, update settings, change the network password, and add a range extender where the signal drops. You also show customers how to restart things when they act up.",
+   "who": "you understand routers and apps and enjoy troubleshooting until the bars go up.",
+   "kit": [
+    {
+     "item": "TP-Link AC750 RE205 Wi-Fi range extender",
+     "price": "~$30",
+     "store": "Target",
+     "url": "https://www.target.com/p/-/A-53300569",
+     "amazon": "TP-Link AC750 Wi-Fi range extender"
+    }
+   ],
+   "kit_note": "Use your extender to test whether one fixes the customer's dead spot; if it does, they can buy their own so you keep yours for the next job.",
+   "charge": {
+    "text": "The average cost for Wi-Fi installation is **around $100 for a one-time fee or $60 per hour**.",
+    "source": "Fixr",
+    "url": "https://www.fixr.com/costs/install-wireless-computer-network"
+   },
+   "first_customers": [
+    "Fix the Wi-Fi at your own place and a friend's, and screenshot a speed test before and after.",
+    "Offer a flat \"Wi-Fi checkup\" price to people working from home in your local groups.",
+    "Ask landlords of small rentals; tenants complain about Wi-Fi dead spots all the time."
+   ],
+   "watch_out": "only work on networks the owner asks you to, write down any settings before you change them, and let the customer set and keep their own passwords. Don't run cables through walls or attics without proper training and permission."
+  }
+ ],
+ "getting_started": [
+  "**Check local rules.** Search \"[your city] business license\" to see whether you need one for a home service business. Rules vary by city and state, and electrical work usually needs a licensed pro.",
+  "**Think about insurance.** Ask a local agent about general liability insurance before working in people's homes or on their devices.",
+  "**Set clear prices.** Use flat prices for common jobs (one TV setup, one Wi-Fi checkup, one laptop tune-up) and write down exactly what's included.",
+  "**Protect privacy.** Never ask for passwords or financial details, and put that promise in every quote. It builds trust fast.",
+  "**Track every dollar.** Keep receipts for tools and supplies; side income is taxable, so set some aside."
+ ],
+ "tip": "Sell a **flat-price setup bundle** for new holiday gadgets. Clear prices book faster.",
+ "faq": [
+  {
+   "q": "Which of these is cheapest to start?",
+   "a": "Remote tech help, since Google Meet's free plan has no time limit on 1:1 calls. Laptop cleanup is next at about $11 for a can of compressed air, then smart home help at about $12 for a precision screwdriver set."
+  },
+  {
+   "q": "Do I need a certification?",
+   "a": "Not for basic setups and troubleshooting, but certifications can help later. Electrical work, like hardwired doorbells or switches, often needs a licensed electrician; check your city and state rules."
+  },
+  {
+   "q": "Do I need a business license?",
+   "a": "It depends on where you live. Many cities require a general business license for paid services, even part-time. Check your city's website or call the clerk's office before you start."
+  },
+  {
+   "q": "How much can I make?",
+   "a": "We don't promise earnings. The prices above are what customers pay professionals, from published cost guides. As a beginner, expect to charge less until you have reviews."
+  },
+  {
+   "q": "How do I make customers trust me?",
+   "a": "Be clear and upfront: give a flat price, explain what you'll do, never ask for passwords or payment details, and let customers watch while you work. Reviews from friends and neighbors help a lot at the start."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Hyper Tough 29-piece precision screwdriver set, $12.48, Walmart #16401252274",
+   "url": "https://www.walmart.com/ip/16401252274"
+  },
+  {
+   "label": "onn. 6 ft Ultra High Speed HDMI cable, $12.88, Walmart #5067541423",
+   "url": "https://www.walmart.com/ip/5067541423"
+  },
+  {
+   "label": "Google Meet: free plan, no time limit on 1:1 calls",
+   "url": "https://workspace.google.com/products/meet/"
+  },
+  {
+   "label": "SanDisk Ultra Flair 128GB USB flash drive, $25.99, Walmart #130842696",
+   "url": "https://www.walmart.com/ip/130842696"
+  },
+  {
+   "label": "Dust-Off 10 oz compressed air duster, $10.50, Walmart #15079082",
+   "url": "https://www.walmart.com/ip/15079082"
+  },
+  {
+   "label": "TP-Link AC750 RE205 Wi-Fi range extender, $29.99, Target A-53300569",
+   "url": "https://www.target.com/p/-/A-53300569"
+  },
+  {
+   "label": "Fixr: Home automation cost",
+   "url": "https://www.fixr.com/costs/home-automation"
+  },
+  {
+   "label": "Thumbtack: Tech support prices",
+   "url": "https://www.thumbtack.com/p/tech-support-prices"
+  },
+  {
+   "label": "Fixr: Wireless computer network installation cost",
+   "url": "https://www.fixr.com/costs/install-wireless-computer-network"
+  }
+ ]
+}

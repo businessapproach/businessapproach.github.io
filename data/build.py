@@ -10,7 +10,7 @@ Env: NETLIFY_TOKEN_FILE (default ~/.nftoken), SITE_ID below.
 import json, sys, os, re, html, hashlib, pathlib, datetime, urllib.request, urllib.parse
 
 SITE_ID = "7bbeb850-999f-4da7-8b40-49869f448d2e"
-SITE_URL = "https://businessapproach.netlify.app"
+SITE_URL = "https://businessapproach.github.io"
 NAME = "Business Approach"
 HANDLE = "@businessapproach"
 SOCIAL = {"Instagram": "https://www.instagram.com/businessapproach",
@@ -248,7 +248,7 @@ def pages(guides):
 <p>Affiliate links never decide which products we recommend. We pick the cheapest honest option that does the job, show the price from the store where we checked it, and only add an Amazon link where Amazon sells the same or a clearly equivalent item. We don't show Amazon prices on this site; check the current price on Amazon before you buy.</p>''')
     out["privacy/index.html"] = static_page("/privacy/", "Privacy policy", "Privacy policy for the Business Approach website.", f'''<h1>Privacy policy</h1><p class="byline">Last updated {datetime.date.today().strftime("%b %-d, %Y")}</p>
 <p>This site does not ask you to create an account and does not collect your name, email or payment details. We do not use advertising trackers.</p>
-<p><strong>Hosting.</strong> The site is hosted by Netlify, which may process standard server logs (such as IP address and browser type) to deliver and secure the site.</p>
+<p><strong>Hosting.</strong> The site is hosted by GitHub Pages, which may process standard server logs (such as IP address and browser type) to deliver and secure the site.</p>
 <p><strong>Affiliate links.</strong> If you click an affiliate link (for example to Amazon), that retailer may use cookies to credit the referral. Their own privacy policy applies on their site.</p>
 <p><strong>Social links.</strong> Links to Instagram and Facebook take you to those services, which have their own privacy policies.</p>
 <p>Questions? Message us on Instagram or Facebook.</p>''')
