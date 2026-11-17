@@ -1,0 +1,237 @@
+{
+ "slug": "ba-007-reselling-businesses",
+ "post_id": 7,
+ "title": "6 reselling businesses to start under $55",
+ "description": "Six legit reselling businesses you can start for under $55, with checked starter costs, how to price what you sell, and how to land your first 3 buyers.",
+ "category": "reselling",
+ "published": "2026-11-17",
+ "checked_on": "2026-11-10",
+ "image": "ba-007-reselling-businesses.jpg",
+ "image_alt": "Infographic: 6 reselling businesses to start under $55: furniture flips ~$53, book flipping ~$23, thrift clothes free, sneaker rehab ~$18, bike flipping ~$25, yard sale flips free.",
+ "fb_post": "https://www.facebook.com/122191040042969717/posts/122191932716969717",
+ "ig_post": "https://www.instagram.com/p/DfxZvlCj2ZU/",
+ "intro": [
+  "Reselling means buying things cheaply at thrift stores, yard sales and curbside, cleaning or fixing them up, and selling them for more. You probably already shop secondhand, so the main new skill is learning what sells and for how much. Two of these ideas cost nothing to start, and the most expensive starter tool on the list is a sander at about $53.",
+  "Below are the six ideas from our post, with the starter tool we priced on a real store page, how to set your prices, and the simplest way to land your first three buyers. Start with a few cheap items, keep track of what you paid, and only buy more once you've sold the first batch."
+ ],
+ "ideas": [
+  {
+   "name": "Furniture Flips",
+   "price": "~$53",
+   "skill": "Moderate",
+   "first_job": "Sanding and refinishing a thrifted nightstand or small side table",
+   "what": "You buy solid wood furniture that looks tired, like dressers, nightstands, side tables and chairs, then sand, repair, paint or stain it and sell it locally. Small pieces are easier to move, store and sell while you learn.",
+   "who": "you like hands-on projects, have a garage, patio or other space with good airflow, and can lift and move furniture safely.",
+   "kit": [
+    {
+     "item": "BLACK+DECKER BDERO100 5 in random orbit sander",
+     "price": "~$53",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/43357901",
+     "amazon": "5 inch random orbit sander"
+    },
+    {
+     "item": "Sandpaper discs, paint or stain",
+     "price": "price varies",
+     "store": "hardware stores"
+    }
+   ],
+   "kit_note": "The post's ~$53 covers the sander only. Buy sanding discs and finish for each piece as you go, and wear a dust mask and safety glasses when you sand.",
+   "charge_fallback": "There's no national price guide for flipped furniture; buyers compare what's listed near them. Before you list, search Facebook Marketplace and local listings for the same kind of piece in similar condition, and price yours in that range, making sure it covers what you paid plus supplies. If you later offer to refinish people's own furniture, Thumbtack says the national average cost to refinish furniture **ranges from $430 to $969, with most people paying around $644** ([Thumbtack](https://www.thumbtack.com/p/furniture-refinishing-cost)).",
+   "first_customers": [
+    "Flip one small piece first, photograph it before and after in daylight, and list it on Facebook Marketplace for local pickup.",
+    "Tell friends and neighbors you're refinishing furniture and share your before-and-after photos with them.",
+    "Ask your first buyers if you can share a photo of the piece in their home, and post it with your next listing."
+   ],
+   "watch_out": "old furniture may have lead paint, so don't sand painted pieces from before 1978 without testing first; inexpensive lead test kits are sold at hardware stores. Lift with a helper, check pieces for bed bugs before bringing them inside, and meet buyers in a safe place or have someone with you."
+  },
+  {
+   "name": "Book Flipping",
+   "price": "~$23",
+   "skill": "Easy",
+   "first_job": "Listing 10 used books from a library sale or thrift store",
+   "what": "You buy used books cheaply at library sales, thrift stores and yard sales, then sell them online to readers and collectors. Textbooks, cookbooks, niche nonfiction and out-of-print titles often sell better than popular novels.",
+   "who": "you love books, don't mind digging through shelves, and are organized enough to keep track of listings and shipping.",
+   "kit": [
+    {
+     "item": "Accuteck ShipPro W-8580 digital postal scale",
+     "price": "~$23",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/315720115",
+     "amazon": "digital postal shipping scale"
+    }
+   ],
+   "kit_note": "A scale lets you weigh each package so you charge the right shipping and don't lose money on postage.",
+   "charge_fallback": "There's no national price guide for used books. Before you buy or list, look up the exact title and edition on the site you plan to sell on and check what copies in similar condition have actually sold for, not just what sellers are asking. Make sure your price covers what you paid, the site's selling fees and shipping.",
+   "first_customers": [
+    "Start with 10 books you checked before buying, so you know there's demand for each one.",
+    "Describe the condition honestly, including any marks, and take clear photos of the cover and spine.",
+    "Ship fast and pack well; quick, careful shipping earns the good reviews that bring repeat buyers."
+   ],
+   "watch_out": "don't buy books just because they're cheap; many common titles sell for very little. Never sell library copies or free advance review copies marked \"not for resale\"."
+  },
+  {
+   "name": "Thrift Clothes",
+   "price": "Free",
+   "skill": "Easy",
+   "first_job": "Listing 10 pieces of brand-name clothing from your own closet",
+   "what": "You buy brand-name and vintage clothing at thrift stores and yard sales, clean it, photograph it well and resell it online. Many people start by selling clothes from their own closet to learn how it works.",
+   "who": "you know brands and styles, enjoy thrift shopping, and don't mind washing, measuring and photographing each piece.",
+   "kit": [
+    {
+     "item": "Poshmark listings (no listing fees)",
+     "price": "Free",
+     "store": "Poshmark",
+     "url": "https://blog.poshmark.com/2025/"
+    }
+   ],
+   "kit_note": "Listing on Poshmark is free. When something sells, Poshmark keeps a flat $2.95 on sales under $15 and 20% on sales of $15 or more, so build that into your prices.",
+   "charge_fallback": "There's no national price guide for secondhand clothing. Search the brand and item on the site you're selling on, check what similar pieces in similar condition have sold for, and price in that range. Remember Poshmark's fee: a flat $2.95 on sales under $15 and 20% on sales of $15 or more.",
+   "first_customers": [
+    "List 10 good-condition pieces from your own closet first, so your shop isn't empty when you start buying to resell.",
+    "Take bright photos by a window, and include measurements, the brand and any flaws in every listing.",
+    "Share your listings regularly and reply to questions quickly; fast, friendly answers help close sales."
+   ],
+   "watch_out": "wash or clean everything before listing, and be honest about stains, holes and wear. Watch out for counterfeit designer items at thrift stores; selling fakes can get your account closed, even if you didn't know."
+  },
+  {
+   "name": "Sneaker Rehab",
+   "price": "~$18",
+   "skill": "Easy",
+   "first_job": "Cleaning and reselling a pair of thrifted sneakers",
+   "what": "You buy used sneakers that just need a good clean, wash the uppers, soles and laces, and resell them online or locally. Once you're good at it, some people also pay to have their own sneakers cleaned.",
+   "who": "you know sneakers, are patient with detail work, and enjoy seeing a dirty pair come back to life.",
+   "kit": [
+    {
+     "item": "Jason Markk Essential Kit (cleaning solution and brush)",
+     "price": "~$18",
+     "store": "Jason Markk",
+     "url": "https://jasonmarkk.com/products/essential-kit",
+     "amazon": "sneaker cleaning kit with brush"
+    }
+   ],
+   "kit_note": "Test the cleaner on a small hidden spot first, especially on suede or delicate materials.",
+   "charge_fallback": "There's no reliable national price guide for cleaned sneakers or sneaker cleaning. Search the exact model and size on the site you plan to sell on, check what pairs in similar condition have actually sold for, and price in that range. If you clean other people's pairs, check what local sneaker cleaners near you charge and start just below them.",
+   "first_customers": [
+    "Clean a pair of your own or a friend's sneakers and post before-and-after photos.",
+    "Buy one or two thrifted pairs that only need cleaning, and list them with honest photos of the soles and insides.",
+    "Offer to clean friends' sneakers at a starter price in exchange for a review and permission to share the photos."
+   ],
+   "watch_out": "be honest about wear, sole condition and odors in every listing. Fake sneakers are common, so learn to spot them before you buy and never resell a pair you can't verify as real."
+  },
+  {
+   "name": "Bike Flipping",
+   "price": "~$25",
+   "skill": "Moderate",
+   "first_job": "Tuning up a used kids' bike from a yard sale",
+   "what": "You buy used bikes that need small fixes, like adjusting brakes and gears, tightening bolts, cleaning the chain and pumping up tires, and resell them locally. Kids' bikes and simple commuter bikes are easier to fix and sell than high-end models.",
+   "who": "you're handy, like working with tools, and are willing to learn basic bike repairs from free online videos.",
+   "kit": [
+    {
+     "item": "Schwinn 18-in-1 bike multi-tool",
+     "price": "~$25",
+     "store": "Target",
+     "url": "https://www.target.com/p/-/A-92653372",
+     "amazon": "18 in 1 bike multi tool"
+    },
+    {
+     "item": "Replacement parts like tubes, brake pads or chains",
+     "price": "price varies",
+     "store": "bike shops"
+    }
+   ],
+   "kit_note": "The post's ~$25 covers the multi-tool only. Some bikes need new tubes, brake pads or a chain, so check what a bike needs before you buy it.",
+   "charge_fallback": "There's no national price guide for used bikes. Search Facebook Marketplace and local listings for the same type and size of bike in similar condition, and price yours in that range. Make sure it covers what you paid and any parts you replaced.",
+   "first_customers": [
+    "Fix up one bike first, test ride it, and list it with clear photos and a list of what you fixed.",
+    "Look for families selling outgrown kids' bikes at yard sales; there's steady demand for the next size up.",
+    "Tell neighbors and local parent groups you have tuned-up bikes for sale, especially in spring."
+   ],
+   "watch_out": "brakes have to work. Test them and every other safety part before selling, and if you're not sure a repair is safe, take it to a bike shop or don't sell the bike. Ask where a bike came from and avoid deals that feel off, since stolen bikes are common."
+  },
+  {
+   "name": "Yard Sale Flips",
+   "price": "Free",
+   "skill": "Easy",
+   "first_job": "Reselling a few items you picked up at weekend yard sales",
+   "what": "You shop yard sales, estate sales and garage sales for underpriced items, like small appliances, tools, home decor, toys and games, then clean them up and resell them locally. Bulky items do especially well with local pickup.",
+   "who": "you like hunting for deals, are up early on weekends, and enjoy chatting with sellers and buyers.",
+   "kit": [
+    {
+     "item": "Facebook Marketplace listings for local pickup",
+     "price": "Free",
+     "store": "Facebook Marketplace",
+     "url": "https://www.facebook.com/marketplace/"
+    }
+   ],
+   "kit_note": "Facebook doesn't charge a fee for local pickup sales; fees apply to items you ship. Check the current terms in the app before you list.",
+   "charge_fallback": "There's no national price guide for yard sale finds. Before you buy, look up the item on Facebook Marketplace and other local listings to see what similar items are listed for, and only buy if you can resell it for clearly more than you paid.",
+   "first_customers": [
+    "List a few things from your own home first to learn how Marketplace works and get your first reviews.",
+    "Photograph every item in daylight by a window, and include the brand, size and any flaws.",
+    "Reply quickly, be clear about pickup times, and meet in a busy public place or a police station \"safe exchange\" spot."
+   ],
+   "watch_out": "test anything electric before you buy and resell it, and check for recalls on baby gear, toys and appliances at cpsc.gov; selling recalled products is illegal. Never accept overpayments or \"send a code\" requests; those are common Marketplace scams."
+  }
+ ],
+ "getting_started": [
+  "**Check local rules.** Search \"[your city] business license\" and your state's sales tax rules for resellers. Rules vary by city and state, even for part-time selling.",
+  "**Pick one idea.** Start with the one that matches what you already know, like books, clothes or furniture, and get a few sales before adding another.",
+  "**Track what you paid.** Write down the cost of every item and supply so you know which flips actually make money.",
+  "**Sell safely.** Meet local buyers in busy public places, take payment before handing items over, and use the site's own payment system for shipped sales.",
+  "**Track every dollar.** Reselling income is taxable, so keep receipts and records of your sales, and set some aside."
+ ],
+ "tip": "Photograph every flip **in daylight by a window**; bright photos sell faster.",
+ "faq": [
+  {
+   "q": "Which of these is cheapest to start?",
+   "a": "Thrift clothes and yard sale flips are free to start: Poshmark has no listing fees, and Facebook doesn't charge a fee for local pickup sales. You'll still need a little money to buy your first items."
+  },
+  {
+   "q": "Do I need a business license or sales tax permit?",
+   "a": "It depends on your city and state. Many places require a business license, and some states require resellers to register to collect sales tax. Check your city and state websites before you start."
+  },
+  {
+   "q": "How much can I make?",
+   "a": "We don't promise earnings. What you make depends on what you buy, what you pay and what local buyers will spend. Start small, track every flip, and do more of what sells."
+  },
+  {
+   "q": "How do I know what something will sell for?",
+   "a": "Look up the same item in similar condition on the site you plan to sell on and check what it has actually sold for, not just asking prices. Do this before you buy."
+  },
+  {
+   "q": "Can teens do these?",
+   "a": "Thrift clothes, book flipping and yard sale flips can work for teens with a parent's OK. Most selling sites have age rules, so have a parent read them and set up the account with you, and always have an adult with you when meeting buyers. Check your state's rules for working minors."
+  }
+ ],
+ "sources": [
+  {
+   "label": "BLACK+DECKER BDERO100 5 in random orbit sander, $52.99, Walmart #43357901",
+   "url": "https://www.walmart.com/ip/43357901"
+  },
+  {
+   "label": "Accuteck ShipPro W-8580 postal scale, $22.59, Walmart #315720115",
+   "url": "https://www.walmart.com/ip/315720115"
+  },
+  {
+   "label": "Poshmark: no listing fees; $2.95 on sales under $15, 20% on sales of $15 or more",
+   "url": "https://blog.poshmark.com/2025/"
+  },
+  {
+   "label": "Jason Markk Essential Kit, $18.00",
+   "url": "https://jasonmarkk.com/products/essential-kit"
+  },
+  {
+   "label": "Schwinn 18-in-1 bike multi-tool, $24.99, Target A-92653372",
+   "url": "https://www.target.com/p/-/A-92653372"
+  },
+  {
+   "label": "Facebook Marketplace fees: no fee for local pickup sales (Voolist, 2026)",
+   "url": "https://voolist.com/blog/facebook-marketplace-fees-2026"
+  },
+  {
+   "label": "Thumbtack: How much does furniture refinishing cost?",
+   "url": "https://www.thumbtack.com/p/furniture-refinishing-cost"
+  }
+ ]
+}
