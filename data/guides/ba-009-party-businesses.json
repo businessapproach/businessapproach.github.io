@@ -1,0 +1,273 @@
+{
+ "slug": "ba-009-party-businesses",
+ "post_id": 9,
+ "title": "6 party businesses to start under $90",
+ "description": "Six legit party businesses you can start for under $90, with checked starter gear prices, what customers pay pros, and how to land your first 3 clients.",
+ "category": "events",
+ "published": "2026-11-19",
+ "checked_on": "2026-11-10",
+ "image": "ba-009-party-businesses.jpg",
+ "image_alt": "Infographic: 6 party businesses to start under $90: giant games ~$90, balloon arches ~$29, photo booth ~$12, face painting ~$22, backdrop rental ~$30, bubble parties ~$31.",
+ "fb_post": "https://www.facebook.com/122191040042969717/posts/122192265914969717",
+ "ig_post": "https://www.instagram.com/p/Df2jVd1gFRo/",
+ "intro": [
+  "Birthday parties, holiday get-togethers, baby showers and backyard events all need something fun to do and something nice to look at. Each idea below starts with one piece of gear you can carry in a car, and the most expensive one on the list is a giant wooden toppling tower at about $90. The cheapest, a simple phone photo booth, starts at about $12 for a ring light.",
+  "Below are the six ideas from our post, with the exact product we priced on a real store page, what customers typically pay professionals where a reliable price guide exists, and the simplest way to land your first three bookings. Start small, show up on time, keep everything clean and safe, and bundle two services together once you have a few happy hosts."
+ ],
+ "ideas": [
+  {
+   "name": "Giant Games",
+   "price": "~$90",
+   "skill": "Easy",
+   "first_job": "Renting a giant tower game for a neighbor's backyard birthday",
+   "what": "You rent out oversized lawn games for parties, picnics, school events and company cookouts. You drop the game off, show the host how it works, and pick it up afterward. Many renters start with one game and add more, like giant cornhole or connect-four style games, as bookings come in.",
+   "who": "you have a car with some trunk space, are reliable with drop-off and pick-up times, and don't mind a little cleaning between rentals.",
+   "kit": [
+    {
+     "item": "GoSports Toppling Tower giant wooden game",
+     "price": "~$90",
+     "store": "Target",
+     "url": "https://www.target.com/p/-/A-89289486",
+     "amazon": "giant wooden toppling tower game"
+    }
+   ],
+   "kit_note": "Sand any rough edges and check every block for splinters before each rental. A sturdy storage bag or bin keeps the pieces together and protects your car.",
+   "charge_fallback": "We couldn't find a national cost guide for giant lawn game rentals, and prices vary a lot by area. Search local party rental companies and marketplace listings for the same kind of game, note their per-day price and delivery fee, and price yours in that range. Put the rental time, delivery area and any damage fee in writing.",
+   "first_customers": [
+    "Offer the game free or at a big discount for a friend's party, and take photos (with permission) of guests playing.",
+    "Post those photos in your neighborhood Facebook group or Nextdoor with a simple flat price for a one-day rental.",
+    "Ask schools, churches and youth sports groups if they need games for fall festivals, picnics or end-of-season parties."
+   ],
+   "watch_out": "tall towers can fall on small children, so tell hosts to keep toddlers back and have an adult nearby. Set the game up on flat ground, and use a short written rental agreement that covers the rental time, late returns and damage."
+  },
+  {
+   "name": "Balloon Arches",
+   "price": "~$29",
+   "skill": "Easy–moderate",
+   "first_job": "A small balloon garland for a family birthday",
+   "what": "You build balloon arches and garlands for birthdays, baby showers, graduations, store openings and holiday parties. Most jobs are set up on-site shortly before the event, and many clients choose colors to match a theme.",
+   "who": "you have a good eye for color, work well with your hands, and can stay calm on a deadline.",
+   "kit": [
+    {
+     "item": "Balloon Time dual-nozzle electric balloon inflator",
+     "price": "~$29",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/14161966232",
+     "amazon": "electric balloon pump dual nozzle"
+    },
+    {
+     "item": "Balloons, decorating strip and tape for each job",
+     "price": "price varies",
+     "store": "party and craft stores"
+    }
+   ],
+   "kit_note": "The post's ~$29 covers the electric pump only. Balloons and supplies change with each job, so build them into your price for every booking.",
+   "charge": {
+    "text": "There's no single national average for balloon arches. Thumbtack's balloon artist cost guide gives one example: a Los Angeles balloon company lists **balloon arches at $70+**, **bouquets at $30+** and **centerpieces at $20+**. Bigger and more detailed arches usually cost more.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/cost-of-balloon-twisting"
+   },
+   "first_customers": [
+    "Make a garland for your own family's next party and photograph it well; that photo becomes your first ad.",
+    "Offer two or three simple sizes with flat prices so clients can choose quickly.",
+    "Ask local bakeries, party stores and event venues if you can leave a card or be on their list of recommended decorators."
+   ],
+   "watch_out": "balloons and balloon pieces are a choking hazard for young children, so clean up every popped piece. Ask about latex allergies before you book, and never release balloons outdoors; some cities and states have rules against balloon releases."
+  },
+  {
+   "name": "Photo Booth",
+   "price": "~$12",
+   "skill": "Easy",
+   "first_job": "A phone photo corner at a friend's party",
+   "what": "You set up a simple photo corner with a ring light, a phone or camera, and fun props, so guests can take good-looking pictures all night. You can run it yourself during the event or set it up and let guests take their own shots, then share the photos with the host afterward.",
+   "who": "you're friendly, comfortable around crowds, and good at getting people to smile.",
+   "kit": [
+    {
+     "item": "TECELKS 10 in ring light with tripod and remote",
+     "price": "~$12",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/985640782",
+     "amazon": "10 inch ring light with tripod and remote"
+    },
+    {
+     "item": "Your own phone or camera",
+     "price": "Free",
+     "store": "already yours"
+    }
+   ],
+   "kit_note": "The post's ~$12 covers the ring light only. A backdrop (see Backdrop Rental) and a few props make the photos look much better.",
+   "charge": {
+    "text": "Thumbtack says the national average cost of renting a photo booth **ranges from around $361 to $605**, and companies **may charge between $125 and $200 per hour**, with packages starting at **two or three hours minimum**. Those prices are for full booth companies; a simple phone-and-ring-light setup should start lower.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/photo-booth-rentals-prices"
+   },
+   "first_customers": [
+    "Run a free photo corner at a friend's or family party, and ask the host for a review and a few photos you can share.",
+    "Offer a simple package with a set number of hours and a link to all the photos after the event.",
+    "Pair up with a local balloon or backdrop decorator so you can recommend each other to clients."
+   ],
+   "watch_out": "ask the host before you post any guest photos online, and get a parent's OK before sharing photos of kids. Tape down cords and keep the light stand where guests won't trip over it."
+  },
+  {
+   "name": "Face Painting",
+   "price": "~$22",
+   "skill": "Moderate",
+   "first_job": "Simple cheek designs at a family birthday party",
+   "what": "You paint designs on kids' (and adults') faces and arms at birthday parties, school fairs, festivals and community events. Most beginners start with quick cheek art like hearts, stars and rainbows, then learn full-face designs with practice.",
+   "who": "you're patient with kids, have a steady hand, and enjoy drawing.",
+   "kit": [
+    {
+     "item": "Snazaroo Rainbow Face Paint Party Kit",
+     "price": "~$22",
+     "store": "Snazaroo",
+     "url": "https://www.snazaroo.com/products/party-kits-rainbow-face-paint-kit",
+     "amazon": "snazaroo face paint kit"
+    }
+   ],
+   "kit_note": "Only use paints made for skin, never craft or acrylic paint. Bring clean water, fresh sponges and baby wipes to every job.",
+   "charge": {
+    "text": "Thumbtack says the national average cost of hiring a face painter **ranges from around $192 to $330**. One painter it lists charges **$95 per hour with a two-hour minimum**, and some painters at large fairs charge each customer **$5 to $10** depending on the design. Thumbtack notes most face painters can paint **approximately 15 faces per hour**.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/face-painting-prices"
+   },
+   "first_customers": [
+    "Practice on family members, then offer free or discounted painting at a friend's party in exchange for photos and a review.",
+    "Make a simple design board with 8–10 quick designs so kids can choose fast and lines keep moving.",
+    "Ask schools, libraries and community centers about fall and holiday events; many look for face painters."
+   ],
+   "watch_out": "always do a small test patch if a child has sensitive skin, don't paint over cuts, rashes or near the eyes, and ask a parent before painting any child. Keep brushes and sponges clean between guests."
+  },
+  {
+   "name": "Backdrop Rental",
+   "price": "~$30",
+   "skill": "Easy",
+   "first_job": "A backdrop for a friend's baby shower or birthday photos",
+   "what": "You rent out a backdrop stand with fabric, sequin or printed backdrops for parties, showers, graduations and small business events. Some clients just want the stand dropped off; others pay extra for you to set it up and decorate it.",
+   "who": "you're organized, like styling and decorating, and have room to store a few backdrops.",
+   "kit": [
+    {
+     "item": "CATGOOD 10 ft adjustable backdrop stand kit",
+     "price": "~$30",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/1092637532",
+     "amazon": "10 ft adjustable backdrop stand kit"
+    },
+    {
+     "item": "Fabric or printed backdrops",
+     "price": "price varies",
+     "store": "craft and party stores"
+    }
+   ],
+   "kit_note": "The post's ~$30 covers the stand only. Start with one or two neutral backdrops that work for many kinds of parties, then add themed ones as you get bookings.",
+   "charge": {
+    "text": "We couldn't find a national cost guide for backdrop-only rentals. As one reference, Thumbtack's photo booth pricing page lists **custom photo backdrops or vinyl skin branding of the booth at $150 to $300** and a **custom sequin backdrop at $350** as add-ons from booth companies. A simple rental from a beginner will usually cost less, so check what local renters charge too.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/photo-booth-rentals-prices"
+   },
+   "first_customers": [
+    "Set up the backdrop at your own family's next event and take great photos of it in use.",
+    "Post a few looks in local Facebook groups with a flat price for drop-off and pick-up, plus a set-up add-on.",
+    "Team up with a local photo booth, balloon or bakery business and offer a small discount when clients book you together."
+   ],
+   "watch_out": "weigh down the stand's legs with sandbags or weights so it can't tip over, especially outdoors or around kids. Wash or steam fabric backdrops between rentals, and put the rental time and damage fee in writing."
+  },
+  {
+   "name": "Bubble Parties",
+   "price": "~$31",
+   "skill": "Easy",
+   "first_job": "A bubble machine at a little kid's birthday party",
+   "what": "You bring bubble fun to kids' parties: a bubble machine running in the background, plus wands and games led by you. Some hosts just want the machine rented; others want you there to run activities for 30 to 60 minutes.",
+   "who": "you love being around little kids, have lots of energy, and can keep a group entertained.",
+   "kit": [
+    {
+     "item": "Gazillion Bubble Storm bubble machine",
+     "price": "~$31",
+     "store": "Target",
+     "url": "https://www.target.com/p/-/A-92948997",
+     "amazon": "gazillion bubble storm machine"
+    },
+    {
+     "item": "Extra bubble solution and wands",
+     "price": "price varies",
+     "store": "toy and party stores"
+    }
+   ],
+   "kit_note": "The post's ~$31 covers the bubble machine only. Bring plenty of extra solution; a busy party goes through it fast.",
+   "charge_fallback": "We couldn't find a national cost guide for bubble parties. Prices vary a lot by area and by whether you're renting a machine or performing a show. Search local party entertainers and rental listings, note what similar services charge for the same length of time, and price yours in that range.",
+   "first_customers": [
+    "Run a free bubble session at a friend's or relative's kid's party, and ask for a review and photos.",
+    "Offer a simple add-on to other party services, like bubbles plus giant games or face painting.",
+    "Ask local preschools, daycares and libraries about summer and holiday events."
+   ],
+   "watch_out": "bubble solution makes floors and patios very slippery, so run bubbles outdoors on grass when you can and keep kids away from stairs and pools. Tell hosts which ingredients are in the solution in case a child has sensitive skin."
+  }
+ ],
+ "getting_started": [
+  "**Check local rules.** Search \"[your city] business license\" to see whether you need one. Rules vary by city and state, and some parks and venues require vendors to have insurance or a permit.",
+  "**Pick one or two services.** Start with the idea that fits your skills, and add a second once you have a few happy hosts.",
+  "**Put it in writing.** Send a short written agreement with the date, time, price, deposit, set-up time and damage or cancellation rules before every booking.",
+  "**Think about insurance.** You're working at other people's events, often around kids, so look into basic liability insurance before you take paid bookings.",
+  "**Track every dollar.** Side income is taxable, so keep receipts for gear and supplies, record what you earn, and set some aside."
+ ],
+ "tip": "Bundle **two services into one party package**, like balloons plus a photo booth; hosts love booking one person for both.",
+ "faq": [
+  {
+   "q": "Which of these is cheapest to start?",
+   "a": "The photo booth, at about $12 for a 10 inch ring light with tripod and remote, using your own phone. Face painting starts at about $22 for a Snazaroo party kit, and balloon arches at about $29 for an electric pump, plus balloons for each job."
+  },
+  {
+   "q": "Do I need a license or insurance?",
+   "a": "It depends on your city and state. Many places require a general business license for paid services, and some venues, parks and school events ask vendors for proof of liability insurance. Check your city's website before you start, and ask each venue about its rules."
+  },
+  {
+   "q": "How much can I make?",
+   "a": "We don't promise earnings. Where we show prices, they're what customers pay professionals, from published cost guides. As a beginner, expect to charge less until you have reviews and photos of your work."
+  },
+  {
+   "q": "What should I do about deposits and cancellations?",
+   "a": "Many party businesses ask for a deposit to hold the date, with the rest due before or on the day of the event. Write your deposit and cancellation rules into a short agreement so hosts know what to expect."
+  },
+  {
+   "q": "Can teens do these?",
+   "a": "Bubble parties, face painting and balloon garlands can work for teens with a parent's OK, ideally working alongside an adult at first. Have a parent handle bookings and payments, always let them know where you're working, and check your state's rules for working minors."
+  }
+ ],
+ "sources": [
+  {
+   "label": "GoSports Toppling Tower giant game, $89.99, Target A-89289486",
+   "url": "https://www.target.com/p/-/A-89289486"
+  },
+  {
+   "label": "Balloon Time electric inflator, $28.97, Walmart #14161966232",
+   "url": "https://www.walmart.com/ip/14161966232"
+  },
+  {
+   "label": "TECELKS 10 in ring light with tripod and remote, $11.99, Walmart #985640782",
+   "url": "https://www.walmart.com/ip/985640782"
+  },
+  {
+   "label": "Snazaroo Rainbow Face Paint Party Kit, $22.49, Snazaroo",
+   "url": "https://www.snazaroo.com/products/party-kits-rainbow-face-paint-kit"
+  },
+  {
+   "label": "CATGOOD 10 ft backdrop stand kit, $29.99, Walmart #1092637532",
+   "url": "https://www.walmart.com/ip/1092637532"
+  },
+  {
+   "label": "Gazillion Bubble Storm, $30.99, Target A-92948997",
+   "url": "https://www.target.com/p/-/A-92948997"
+  },
+  {
+   "label": "Thumbtack: Balloon artist cost",
+   "url": "https://www.thumbtack.com/p/cost-of-balloon-twisting"
+  },
+  {
+   "label": "Thumbtack: Photo booth rental prices",
+   "url": "https://www.thumbtack.com/p/photo-booth-rentals-prices"
+  },
+  {
+   "label": "Thumbtack: Face painting prices",
+   "url": "https://www.thumbtack.com/p/face-painting-prices"
+  }
+ ]
+}
