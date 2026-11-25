@@ -1,0 +1,245 @@
+{
+ "slug": "ba-016-repair-businesses",
+ "post_id": 16,
+ "title": "6 repair businesses to start under $25",
+ "description": "Six legit repair businesses you can start for under $25, with checked starter prices, what customers pay pros, and how to land your first 3 clients.",
+ "category": "service",
+ "published": "2026-11-25",
+ "checked_on": "2026-11-15",
+ "image": "ba-016-repair-businesses.jpg",
+ "image_alt": "Infographic: 6 repair businesses to start under $25: knife sharpening ~$25, jewelry fixes ~$16, hems & buttons ~$12, furniture touch-up ~$9, shoe shining ~$19, zipper fixes ~$10.",
+ "fb_post": "https://www.facebook.com/122191040042969717/posts/122193170108969717",
+ "ig_post": "https://www.instagram.com/p/DgGAHmTl1Gg/",
+ "intro": [
+  "More people are fixing what they already own instead of buying new: a dull kitchen knife, a broken necklace chain, a pair of pants that's too long, a scuffed table. Most of these jobs are small, but finding someone to do them is a hassle, and that's where you come in. Each idea below starts with one inexpensive kit we priced. The cheapest is furniture touch-up, at about $9 for a Minwax wood stain marker, and the most expensive is knife sharpening, at about $25 for a whetstone kit.",
+  "Below are the six ideas from our post, with the exact kit we priced, what customers pay professionals where a reliable price guide exists, and the simplest way to land your first three clients. Practice on your own things first, only take jobs you're confident about, and be honest when something needs a professional shop."
+ ],
+ "ideas": [
+  {
+   "name": "Knife Sharpening",
+   "price": "~$25",
+   "skill": "Moderate",
+   "first_job": "Sharpening a neighbor's dull kitchen knives",
+   "what": "You sharpen kitchen knives by hand on a whetstone so they cut cleanly again. Customers usually hand over a few knives at once, and many come back every few months.",
+   "who": "you're careful and steady with your hands, and don't mind slow, repetitive work.",
+   "kit": [
+    {
+     "item": "NEIKO 54002A 1000/6000 grit whetstone kit",
+     "price": "~$25",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/1956973413",
+     "amazon": "1000 6000 whetstone kit"
+    }
+   ],
+   "kit_note": "Practice on your own cheap knives until you can keep a steady angle before you sharpen anyone else's. Follow the kit's directions for soaking the stone.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for knife sharpening. Check what local sharpening services, kitchen stores and farmers market sharpeners charge per knife, and price yourself just under them while you build reviews.",
+   "first_customers": [
+    "Sharpen the knives of a few friends and family for free, and ask them to tell people what a difference it made.",
+    "Post in your neighborhood group offering pickup and return of knives within a set day.",
+    "Ask a local cafe or farmers market if you can set up a drop-off box or a small table."
+   ],
+   "watch_out": "this is a real cut risk. Always sharpen away from your body, use a cut-resistant glove, and wrap knives safely when you carry or return them. Don't take on serrated, ceramic or very expensive knives until you've learned how to handle them."
+  },
+  {
+   "name": "Jewelry Fixes",
+   "price": "~$16",
+   "skill": "Easy–moderate",
+   "first_job": "Reattaching a clasp on a friend's broken necklace",
+   "what": "You do simple jewelry repairs like replacing clasps and jump rings, restringing beaded bracelets and swapping earring backs and hooks. These are quick fixes people often put off for months.",
+   "who": "you have nimble fingers, good eyesight or a magnifier, and like fiddly work.",
+   "kit": [
+    {
+     "item": "Solutions 87-piece two-tone jewelry repair kit",
+     "price": "~$16",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/19853464",
+     "amazon": "jewelry repair kit"
+    }
+   ],
+   "kit_note": "Stick to costume and everyday jewelry at first. Work over a tray or a light-colored towel so small parts don't roll away.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for simple jewelry fixes like clasps and jump rings. Check what local jewelers and repair shops charge for the same small jobs, and price simple costume-jewelry fixes below them.",
+   "first_customers": [
+    "Ask friends and family for their broken costume jewelry and fix a few pieces for free in exchange for reviews.",
+    "Post before-and-after photos in your neighborhood group with a simple price per fix.",
+    "Leave a drop-off box at a local cafe or salon, with an envelope and a note card for each repair."
+   ],
+   "watch_out": "don't solder, resize rings or work on valuable gold, silver or stone pieces; send those to a jeweler. Write down each piece and its problem when you take it in, keep small parts away from young children, and return everything in a labeled bag."
+  },
+  {
+   "name": "Hems & Buttons",
+   "price": "~$12",
+   "skill": "Easy–moderate",
+   "first_job": "Hemming a neighbor's pants that are too long",
+   "what": "You do simple hand-sewn mending: hemming pants and skirts, sewing on buttons, fixing small seams and repairing loose hems. Many people own clothes they don't wear just because of one small problem.",
+   "who": "you can sew neatly by hand, have patience for small stitches, and pay attention to detail.",
+   "kit": [
+    {
+     "item": "SINGER 34-piece sewing kit",
+     "price": "~$12",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/21982375",
+     "amazon": "SINGER sewing kit"
+    }
+   ],
+   "kit_note": "Match thread color to each garment, and use pins to mark the length while the customer is wearing it.",
+   "charge": {
+    "text": "Thumbtack puts the national average cost of tailoring at **$62-$211**, with **$73-$107** for hemming or cuffing and **$87-$128** to add a zipper or buttons. A Baltimore tailor's price list it cites as typical shows **$16** to hem or cuff legs.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/tailoring-costs"
+   },
+   "first_customers": [
+    "Fix a few items for friends and family for free, and ask for reviews.",
+    "Post a clear price list for simple jobs, like a button or a hand-sewn hem, in your neighborhood group.",
+    "Offer pickup and drop-off for busy parents and older neighbors."
+   ],
+   "watch_out": "measure twice and confirm the length with the customer before you cut any fabric. Avoid formal wear, leather and expensive items until you're experienced; those are better left to a tailor."
+  },
+  {
+   "name": "Furniture Touch-Up",
+   "price": "~$9",
+   "skill": "Easy",
+   "first_job": "Hiding scratches on a friend's wood coffee table",
+   "what": "You hide small scratches, scuffs and worn edges on wood furniture, floors and trim using stain markers that match the wood color. It's quick, visible work that makes older furniture look cared for.",
+   "who": "you have a good eye for color, a light touch, and like quick before-and-after results.",
+   "kit": [
+    {
+     "item": "Minwax wood finish stain marker",
+     "price": "~$9",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/17300109",
+     "amazon": "Minwax wood finish stain marker"
+    }
+   ],
+   "kit_note": "The post's price is one marker in one color. You'll likely add a few more colors over time to match different woods.",
+   "charge": {
+    "text": "Fixr puts repairing wood furniture at **$100 - $500** for minor damage, depending on the extent of the damage. A quick stain-marker touch-up is a much smaller job, so price it well below that.",
+    "source": "Fixr",
+    "url": "https://www.fixr.com/costs/refinish-furniture"
+   },
+   "first_customers": [
+    "Touch up a piece of furniture at home or a friend's, and post the before-and-after photos.",
+    "Offer the service to people moving out of rentals, who often want scuffs fixed before a walkthrough.",
+    "Ask local landlords and people selling furniture on Marketplace if they'd like scratches touched up before a sale."
+   ],
+   "watch_out": "always test the color on a hidden spot first, and get the owner's OK before you touch a visible area. Follow the label, work with good airflow, and don't promise to fix deep gouges, water damage or antiques; those need a furniture restorer."
+  },
+  {
+   "name": "Shoe Shining",
+   "price": "~$19",
+   "skill": "Easy",
+   "first_job": "Polishing a friend's work shoes before an interview",
+   "what": "You clean, condition and polish leather shoes and boots so they look sharp again. Winter salt and slush are hard on leather, so many people want boots cleaned and protected this time of year.",
+   "who": "you take pride in a finished shine and don't mind a little polish on your hands.",
+   "kit": [
+    {
+     "item": "KIWI Leather Care Kit, 6 count",
+     "price": "~$19",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/21908004",
+     "amazon": "KIWI leather care kit"
+    }
+   ],
+   "kit_note": "Match polish color to the shoes, and test on a hidden spot first. Suede and nubuck need different products, so don't use regular polish on them.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for shoe shining. Check what local cobblers, shoe repair shops and dry cleaners charge per pair for a shine, and price yourself just under them, with a small extra charge for boots.",
+   "first_customers": [
+    "Polish shoes for friends and family before an interview, wedding or holiday party, and ask for reviews.",
+    "Offer pickup and return for offices, churches or groups where people wear dress shoes.",
+    "Add a drop-off box at a local cafe or barber shop with a simple per-pair price."
+   ],
+   "watch_out": "polish stains clothes, floors and skin, so work on newspaper, wear gloves and keep products away from kids. Don't promise to fix broken soles, heels or tears; those need a cobbler."
+  },
+  {
+   "name": "Zipper Fixes",
+   "price": "~$10",
+   "skill": "Easy–moderate",
+   "first_job": "Fixing a stuck or split zipper on a kid's winter jacket",
+   "what": "You fix zippers that split open or have broken sliders by replacing the slider, which is often all that's needed. Winter jackets, backpacks and bags are the most common jobs.",
+   "who": "you like small mechanical fixes and have patience with fiddly parts.",
+   "kit": [
+    {
+     "item": "Universal zipper repair kit, 6-pack",
+     "price": "~$10",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/422702708",
+     "amazon": "zipper repair kit universal"
+    }
+   ],
+   "kit_note": "Sliders come in different sizes, so check which size fits each zipper before you start. Practice on an old jacket or bag first.",
+   "charge": {
+    "text": "Thumbtack puts the national average cost to add a zipper or buttons at **$87-$128**. A Baltimore tailor's price list it cites as typical shows **$18** to replace a zipper on pants. Swapping a slider is a smaller job than a full replacement, so price it below that.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/tailoring-costs"
+   },
+   "first_customers": [
+    "Tell parents in local school groups you fix winter jacket zippers, often the same day.",
+    "Fix a few zippers for friends and family for free and ask for reviews.",
+    "Partner with a dry cleaner or a laundromat that doesn't do repairs, and ask if they'll send small jobs your way."
+   ],
+   "watch_out": "a new slider won't fix missing or broken teeth; that zipper needs to be replaced by a tailor. Tell the customer what you can and can't fix before you take the job, and handle any pliers carefully so you don't damage the fabric."
+  }
+ ],
+ "getting_started": [
+  "**Check local rules.** Search \"[your city] business license\" to see whether you need one for a home-based repair business. Rules vary by city and state.",
+  "**Practice first.** Do a few jobs on your own items and for family before you charge anyone.",
+  "**Write down every item.** Note what each customer gave you, what's wrong with it and the agreed price, so nothing gets mixed up.",
+  "**Be honest about limits.** If a job needs a jeweler, tailor, cobbler or furniture restorer, say so and point the customer there.",
+  "**Track every dollar.** Side income is taxable, so record what you earn and spend, keep supply receipts, and set some aside."
+ ],
+ "tip": "Set up a **drop-off box at a local cafe** so neighbors leave repairs for you.",
+ "faq": [
+  {
+   "q": "Which of these is cheapest to start?",
+   "a": "Furniture touch-up, at about $9 for a Minwax wood stain marker. Zipper fixes is next, at about $10 for a 6-pack of zipper repair sliders."
+  },
+  {
+   "q": "Do I need a business license?",
+   "a": "It depends on your city and state. Many places require a general business license for paid services, even part-time. Check your city's website or call the clerk's office before you start, and ask the cafe owner before leaving a drop-off box."
+  },
+  {
+   "q": "How much can I make?",
+   "a": "We don't promise earnings. Where we show prices, they're what customers typically pay professionals, from published cost guides. As a beginner, expect to charge less until you have reviews and photos of your work."
+  },
+  {
+   "q": "What if I damage something?",
+   "a": "Start with low-value items, test on hidden spots, and tell customers upfront what could go wrong. Turn down valuable or sentimental pieces until you're experienced, and send them to a professional."
+  },
+  {
+   "q": "Can teens do these?",
+   "a": "Hems and buttons, zipper fixes, furniture touch-up and shoe shining can work for teens with a parent's OK, working for people they know. Knife sharpening is best left to adults. Check your state's rules for working minors."
+  }
+ ],
+ "sources": [
+  {
+   "label": "NEIKO 54002A 1000/6000 whetstone kit, $24.99, Walmart #1956973413",
+   "url": "https://www.walmart.com/ip/1956973413"
+  },
+  {
+   "label": "Solutions 87-piece two-tone jewelry repair kit, $16.16, Walmart #19853464",
+   "url": "https://www.walmart.com/ip/19853464"
+  },
+  {
+   "label": "SINGER 34-piece sewing kit, $11.56, Walmart #21982375",
+   "url": "https://www.walmart.com/ip/21982375"
+  },
+  {
+   "label": "Minwax wood finish stain marker, $9.48, Walmart #17300109",
+   "url": "https://www.walmart.com/ip/17300109"
+  },
+  {
+   "label": "KIWI Leather Care Kit 6ct, $19.17, Walmart #21908004",
+   "url": "https://www.walmart.com/ip/21908004"
+  },
+  {
+   "label": "Universal zipper repair kit 6-pack, $9.99, Walmart #422702708",
+   "url": "https://www.walmart.com/ip/422702708"
+  },
+  {
+   "label": "Thumbtack: How much does tailoring cost? (last updated Oct 28, 2026)",
+   "url": "https://www.thumbtack.com/p/tailoring-costs"
+  },
+  {
+   "label": "Fixr: Cost to refinish furniture (updated Jan 31, 2025)",
+   "url": "https://www.fixr.com/costs/refinish-furniture"
+  }
+ ]
+}
