@@ -1,0 +1,232 @@
+{
+ "slug": "ba-015-lesson-businesses",
+ "post_id": 15,
+ "title": "6 lesson businesses to start under $25",
+ "description": "Six legit lesson businesses you can start for under $25, with checked starter prices, what customers pay pros, and how to land your first 3 students.",
+ "category": "service",
+ "published": "2026-11-25",
+ "checked_on": "2026-11-15",
+ "image": "ba-015-lesson-businesses.jpg",
+ "image_alt": "Infographic: 6 lesson businesses to start under $25: guitar basics ~$22, chess coaching ~$25, kids' coding free, knitting classes ~$11, drawing classes ~$11, origami classes ~$5.",
+ "fb_post": "https://www.facebook.com/122191040042969717/posts/122193012164969717",
+ "ig_post": "https://www.instagram.com/p/DgDbSfej13y/",
+ "intro": [
+  "Winter is when parents start looking for screen-free things for their kids to do, and plenty of adults want to pick up a new hobby too. If you already know how to play a few guitar chords, win at chess, knit a scarf or draw, you can teach it. Each idea below starts with one inexpensive item we priced. Kids' coding is free, since Scratch costs nothing to use, and the most expensive is chess coaching, at about $25 for a roll-up tournament chess set.",
+  "Below are the six ideas from our post, with the exact item we priced, what customers pay professionals where a reliable price guide exists, and the simplest way to land your first three students. Start with people you know, keep lessons short and fun, and let happy parents and students spread the word."
+ ],
+ "ideas": [
+  {
+   "name": "Guitar Basics",
+   "price": "~$22",
+   "skill": "Moderate",
+   "first_job": "A first lesson for a friend's child who just got a guitar",
+   "what": "You teach beginners how to hold the guitar, tune it, play their first chords and strum a simple song. Most beginners want weekly lessons of 30 to 60 minutes, at their home, yours or over video.",
+   "who": "you play comfortably yourself, are patient with sore fingers and slow progress, and like seeing someone play their first song.",
+   "kit": [
+    {
+     "item": "D'Addario PW-CT-12 Micro clip-on tuner",
+     "price": "~$22",
+     "store": "Alamo Music",
+     "url": "https://alamomusic.com/products/daddario-pw-ct-12-micro-clip-on-chromatic-headstock-tuner",
+     "amazon": "D'Addario micro clip-on tuner"
+    }
+   ],
+   "kit_note": "Students bring their own guitar. A tuner saves the first ten minutes of every lesson, and you can show students how to use one at home.",
+   "charge": {
+    "text": "Thumbtack says **guitar lessons cost $40-$70 per hour**, and the average lesson is 30 or 60 minutes long. Its national average fixed price for guitar teachers is **$50 - $60**, and it notes that prices for beginner students may be lower because the lessons are more basic.",
+    "source": "Thumbtack",
+    "url": "https://www.thumbtack.com/p/guitar-lessons-cost"
+   },
+   "first_customers": [
+    "Tell parents you know, and friends who got a guitar as a gift, that you teach total beginners.",
+    "Offer a free 15-minute trial lesson so the student can see if it's a good fit.",
+    "After a few weeks, record a short clip (with permission) of a student playing their first song and share it in your neighborhood group."
+   ],
+   "watch_out": "keep the first lessons short; beginners' fingertips get sore. If you teach minors, have a parent home or nearby and talk to the parent about scheduling and payment."
+  },
+  {
+   "name": "Chess Coaching",
+   "price": "~$25",
+   "skill": "Moderate",
+   "first_job": "Weekly sessions for a kid who just learned how the pieces move",
+   "what": "You teach kids or adults the rules, basic openings, tactics and how to think a few moves ahead, then play practice games together. Many coaches also run small group sessions after school or at a library.",
+   "who": "you play well, explain your thinking clearly, and can stay calm when a student keeps losing at first.",
+   "kit": [
+    {
+     "item": "WE Games travel tournament chess set, 20 in roll-up board",
+     "price": "~$25",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/41975057",
+     "amazon": "roll-up tournament chess set"
+    }
+   ],
+   "kit_note": "A roll-up board travels easily to students' homes, libraries and community centers. Free online boards work for video lessons.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for chess lessons. Check what local chess clubs, coaches and after-school programs charge per lesson, and price yourself just under them while you build reviews. Small group sessions can cost each family less.",
+   "first_customers": [
+    "Ask your local library, school or community center if you can run a free beginner chess session, then offer paid follow-up lessons.",
+    "Tell parents in local school and parent groups that you coach beginners, and say which ages you teach.",
+    "Offer a small discount for siblings or friends who book a group lesson together."
+   ],
+   "watch_out": "keep lessons positive; kids quit if every game feels like a loss. If you coach minors, meet in a public place or with a parent home, and follow any background check rules for the venue."
+  },
+  {
+   "name": "Kids' Coding",
+   "price": "Free",
+   "skill": "Moderate",
+   "first_job": "Helping a neighbor's child make their first Scratch game",
+   "what": "You teach kids to build simple games, animations and stories with Scratch, a free block-coding site where they snap commands together instead of typing code. Lessons can be in person or over video.",
+   "who": "you're comfortable with computers, enjoy kids' creativity, and can explain step by step without taking over the mouse.",
+   "kit": [
+    {
+     "item": "Scratch block-coding site (provided free of charge)",
+     "price": "Free",
+     "store": "Scratch (MIT)",
+     "url": "https://scratch.mit.edu/about"
+    }
+   ],
+   "kit_note": "Students need a laptop or desktop computer with internet. Make a few small sample projects first so you can show parents what their child will build.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for kids' coding lessons. Check what local tutors and after-school coding programs charge per lesson, and price yourself just under them while you build reviews.",
+   "first_customers": [
+    "Build one simple game in Scratch and share it with parents you know as an example of what a first lesson makes.",
+    "Offer a free short trial lesson so the child can try it and the parent can see the result.",
+    "Ask local libraries or homeschool groups if you can run a small beginner coding session."
+   ],
+   "watch_out": "teach kids to keep personal details out of their projects and profiles. For video lessons with minors, communicate with the parent and keep a parent nearby."
+  },
+  {
+   "name": "Knitting Classes",
+   "price": "~$11",
+   "skill": "Easy–moderate",
+   "first_job": "Teaching a friend to cast on and knit a simple scarf",
+   "what": "You teach beginners to cast on, knit, purl and finish an easy first project like a scarf or dishcloth. Small group classes at a cafe, library or someone's living room work well, as do one-on-one lessons.",
+   "who": "you knit confidently, have steady patience, and enjoy a relaxed, social setting.",
+   "kit": [
+    {
+     "item": "Boye 10 in aluminum knitting needle set, sizes 8-10 (3 pairs)",
+     "price": "~$11",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/444475111",
+     "amazon": "Boye aluminum knitting needle set"
+    }
+   ],
+   "kit_note": "Yarn isn't included in the post's price. Ask students to bring a skein of medium-weight yarn, or include it in a class price.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for knitting lessons. Check what local yarn shops, community centers and craft stores charge for beginner classes, and price yourself just under them. Say clearly whether yarn is included.",
+   "first_customers": [
+    "Host a small beginner class for friends and ask each person to bring one other friend.",
+    "Ask local cafes, libraries or yarn shops if you can run a beginner knitting night.",
+    "Post photos (with permission) of students' first finished scarves in your neighborhood group."
+   ],
+   "watch_out": "pick a first project that can be finished in a few sessions so students don't get discouraged. Keep needles away from very young kids, and agree on who supplies yarn before the class."
+  },
+  {
+   "name": "Drawing Classes",
+   "price": "~$11",
+   "skill": "Easy–moderate",
+   "first_job": "A small after-school drawing session for a few neighborhood kids",
+   "what": "You teach drawing basics like shapes, shading, proportion and color through simple, fun projects. Classes can be one-on-one or a small group, for kids or adults.",
+   "who": "you draw well, can break a picture into easy steps, and enjoy encouraging people who think they \"can't draw\".",
+   "kit": [
+    {
+     "item": "Crayola 50-count colored pencils",
+     "price": "~$11",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/17176158",
+     "amazon": "Crayola colored pencils 50 count"
+    }
+   ],
+   "kit_note": "Plain printer paper or a cheap sketchbook works for beginners. Plan each class around one finished picture students can take home.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for drawing lessons. Check what local art studios, community centers and private teachers charge per class, and price yourself just under them while you build reviews.",
+   "first_customers": [
+    "Run a free short drawing session for kids you know and send each one home with their picture and your contact info.",
+    "Ask local libraries, community centers or homeschool groups if you can run a small class.",
+    "Share students' finished drawings (with a parent's permission) in local parent groups."
+   ],
+   "watch_out": "keep the focus on fun and progress, not perfection. If you teach minors, keep a parent present or nearby, or teach at a public venue that allows it."
+  },
+  {
+   "name": "Origami Classes",
+   "price": "~$5",
+   "skill": "Easy",
+   "first_job": "A folding session at a friend's kid's birthday party",
+   "what": "You teach simple paper folding, like cranes, boats, frogs and boxes, step by step. Origami works well as a group activity for parties, after-school clubs, libraries and senior centers.",
+   "who": "you're good with your hands, patient with fiddly steps, and like leading a group activity.",
+   "kit": [
+    {
+     "item": "Tuttle Kaleidoscope origami paper, 96 sheets",
+     "price": "~$5",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/1458216825",
+     "amazon": "origami paper 96 sheets"
+    }
+   ],
+   "kit_note": "Practice every model several times before teaching it, and start with ones that take under ten minutes.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for origami classes. For parties and groups, check what local craft and party entertainers charge per event or per child, and agree on a clear price before the event.",
+   "first_customers": [
+    "Offer a short origami session at a friend's kid's party or a school club in exchange for a review.",
+    "Ask your library, community center or a senior center if you can run a free folding hour, then offer paid sessions.",
+    "Post photos of a table full of finished models in your neighborhood group."
+   ],
+   "watch_out": "choose models that match the group's age; very young kids need the simplest folds. Keep the group small enough that you can help everyone, and agree on the price per child or per group before the event."
+  }
+ ],
+ "getting_started": [
+  "**Check local rules.** Search \"[your city] business license\" to see whether you need one for a home-based lesson business. Rules vary by city and state, and some venues require background checks to work with kids.",
+  "**Pick one idea.** Choose the skill you're strongest at, and get a few good reviews before adding a second.",
+  "**Put it in writing.** Send a short message with the lesson time, place, length, price and cancellation policy before the first lesson.",
+  "**Keep kids safe.** When you teach minors, communicate with parents, keep a parent nearby or teach in a public place, and never be alone in a closed room with a child who isn't yours.",
+  "**Track every dollar.** Side income is taxable, so record what you earn and spend, keep supply receipts, and set some aside."
+ ],
+ "tip": "Run a **free 15-minute trial lesson**. Parents book the ones their kid enjoyed.",
+ "faq": [
+  {
+   "q": "Which of these is cheapest to start?",
+   "a": "Kids' coding is free, since Scratch is provided free of charge. Origami is next, at about $5 for a 96-sheet pack of paper."
+  },
+  {
+   "q": "Do I need a business license?",
+   "a": "It depends on your city and state. Many places require a general business license for paid services, even part-time. Check your city's website or call the clerk's office before you start."
+  },
+  {
+   "q": "How much can I make?",
+   "a": "We don't promise earnings. Where we show prices, they're what customers typically pay professionals, from published cost guides. As a beginner, expect to charge less until you have reviews and happy students."
+  },
+  {
+   "q": "Do I need a background check to teach kids?",
+   "a": "Rules vary. Many schools, libraries and community centers require one before you can teach there, and some parents will ask. It's worth finding out what your local venues need before you offer classes."
+  },
+  {
+   "q": "Can teens do these?",
+   "a": "Yes, many of these work well for teens with a parent's OK, especially teaching younger kids origami, drawing, chess or Scratch. Check your state's rules for working minors."
+  }
+ ],
+ "sources": [
+  {
+   "label": "D'Addario PW-CT-12 Micro clip-on tuner, $21.99, Alamo Music",
+   "url": "https://alamomusic.com/products/daddario-pw-ct-12-micro-clip-on-chromatic-headstock-tuner"
+  },
+  {
+   "label": "WE Games travel tournament chess set 20 in roll-up, $24.99, Walmart #41975057",
+   "url": "https://www.walmart.com/ip/41975057"
+  },
+  {
+   "label": "Scratch: About Scratch (\"provided free of charge\")",
+   "url": "https://scratch.mit.edu/about"
+  },
+  {
+   "label": "Boye 10 in aluminum knitting needle set sizes 8-10, $10.74, Walmart #444475111",
+   "url": "https://www.walmart.com/ip/444475111"
+  },
+  {
+   "label": "Crayola 50-count colored pencils, $10.59, Walmart #17176158",
+   "url": "https://www.walmart.com/ip/17176158"
+  },
+  {
+   "label": "Tuttle Kaleidoscope origami paper 96 sheets, $4.54, Walmart #1458216825",
+   "url": "https://www.walmart.com/ip/1458216825"
+  },
+  {
+   "label": "Thumbtack: How much do guitar lessons cost?",
+   "url": "https://www.thumbtack.com/p/guitar-lessons-cost"
+  }
+ ]
+}
