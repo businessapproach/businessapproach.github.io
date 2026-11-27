@@ -1,0 +1,240 @@
+{
+ "slug": "ba-017-plant-businesses",
+ "post_id": 17,
+ "title": "6 plant businesses to start under $25",
+ "description": "Six legit plant businesses you can start for under $25, with checked starter prices, local pricing tips, and how to land your first 3 customers.",
+ "category": "service",
+ "published": "2026-11-27",
+ "checked_on": "2026-11-15",
+ "image": "ba-017-plant-businesses.jpg",
+ "image_alt": "Infographic: 6 plant businesses to start under $25: terrariums ~$24, plant trims ~$21, plant sitting free, repotting ~$7, cutting sales ~$11, plant styling ~$8.",
+ "fb_post": "https://www.facebook.com/122191040042969717/posts/122193498962969717",
+ "ig_post": "https://www.instagram.com/p/DgLJsYSAJ9w/",
+ "intro": [
+  "Houseplants have a hard time in winter: the air indoors gets dry, days are short, and plenty of owners travel over the holidays and leave them behind. If you already keep plants alive and enjoy fussing over them, you can turn that into a small business. Each idea below starts with one inexpensive item we priced. Plant sitting is free to start with a Google Calendar booking page, and the most expensive is terrariums, at about $24 for a glass geometric terrarium.",
+  "Below are the six ideas from our post, with the exact item we priced, how to set a fair price in your area, and the simplest way to land your first three customers. We couldn't find a reliable national cost guide for any of these plant services, so instead of guessing, each idea tells you where to look up local rates. Start with people you know, be honest about what you can and can't fix, and let happy customers spread the word."
+ ],
+ "ideas": [
+  {
+   "name": "Terrariums",
+   "price": "~$24",
+   "skill": "Easy–moderate",
+   "first_job": "A small succulent terrarium as a holiday gift for a friend",
+   "what": "You build small indoor gardens inside glass containers, with a layer of drainage, soil, plants and decorations like moss or stones. People buy them as gifts, as desk decor, or as a low-care plant for a small space.",
+   "who": "you like arranging small things, have a steady hand, and enjoy making something that looks good on a shelf.",
+   "kit": [
+    {
+     "item": "D'Eco glass geometric terrarium",
+     "price": "~$24",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/479031831",
+     "amazon": "glass geometric terrarium"
+    },
+    {
+     "item": "Small plants, soil and decorations",
+     "price": "price varies"
+    }
+   ],
+   "kit_note": "Pick plants that like the same conditions. Open geometric terrariums suit succulents and cacti, which need dry air and bright light.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for terrariums. Check what similar terrariums sell for at local plant shops, craft fairs and on Etsy, and add up your glass, plants and soil before you set a price so every sale covers your costs.",
+   "first_customers": [
+    "Make two or three terrariums and give them as gifts, then ask the people who get them to share a photo and tag you.",
+    "Post photos in your neighborhood group ahead of the holidays and take pre-orders with a pickup date.",
+    "Offer a small terrarium-making workshop for a group of friends, with each person taking one home."
+   ],
+   "watch_out": "glass can break and cut, so wrap finished terrariums well and handle chipped pieces carefully. Some popular houseplants are toxic to cats, dogs and small kids, so tell buyers which plants are inside."
+  },
+  {
+   "name": "Plant Trims",
+   "price": "~$21",
+   "skill": "Easy",
+   "first_job": "Tidying up a neighbor's overgrown pothos and dead leaves",
+   "what": "You visit homes and offices to trim dead or yellow leaves, cut back leggy growth, remove spent flowers and tidy plants so they look healthy again. Many customers like a regular visit every month or two.",
+   "who": "you know how most common houseplants grow and you're comfortable telling a customer when a plant needs more light or less water.",
+   "kit": [
+    {
+     "item": "Fiskars Softgrip micro-tip pruning snips",
+     "price": "~$21",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/19792672",
+     "amazon": "micro-tip pruning snips"
+    }
+   ],
+   "kit_note": "Wipe the blades with rubbing alcohol between customers so you don't carry pests or disease from one home to the next.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for houseplant trimming. As a rough point of reference, [Taskrabbit's gardening page](https://www.taskrabbit.com/services/yardwork-removal/gardening) says gardening services there average around **$22-28 per hour**, but that's for gardening in general, not indoor plants. Check what local plant shops and plant-care services charge per visit, and price yourself just under them while you build reviews.",
+   "first_customers": [
+    "Trim the plants of a few friends for free, and take before-and-after photos you can show new customers.",
+    "Offer a simple per-visit price in your neighborhood group, with a discount for a monthly visit.",
+    "Ask local offices, salons and cafes with lots of plants whether they'd like a regular tidy-up."
+   ],
+   "watch_out": "the snips are sharp, so cut away from your hand. Some plants have sap that can irritate skin, so wear gloves and wash your hands after each job."
+  },
+  {
+   "name": "Plant Sitting",
+   "price": "Free",
+   "skill": "Easy",
+   "first_job": "Watering a neighbor's plants while they travel for the holidays",
+   "what": "You visit homes while owners are away and water, check and care for their plants according to their instructions. Many plant sitters also send a quick photo update after each visit.",
+   "who": "you're reliable, organized and trustworthy with someone else's keys.",
+   "kit": [
+    {
+     "item": "Google Calendar booking page",
+     "price": "Free",
+     "store": "Google",
+     "url": "https://workspace.google.com/products/calendar/"
+    }
+   ],
+   "kit_note": "Google says anyone with a personal Google Account can create one booking page. Use it to let customers pick their visit days.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for plant sitting. Check what local plant sitters, pet sitters and house sitters in your area charge per visit, and price yourself in that range. A short visit for a few plants should cost less than a long visit for a big collection.",
+   "first_customers": [
+    "Tell neighbors and friends who travel for the holidays that you can water their plants, and offer the first trip at a discount.",
+    "Post in your neighborhood group with your price per visit and the areas you cover.",
+    "Send a photo after every visit; owners who see healthy plants when they're away tend to rebook and recommend you."
+   ],
+   "watch_out": "you'll be trusted with house keys and an empty home. Write down each customer's instructions, keep keys labeled with a code instead of an address, and never bring anyone with you without the owner's OK."
+  },
+  {
+   "name": "Repotting",
+   "price": "~$7",
+   "skill": "Easy",
+   "first_job": "Moving a friend's root-bound plant into a bigger pot",
+   "what": "You move plants that have outgrown their pots into larger ones with fresh potting mix, and refresh old, tired soil. It's a messy job many plant owners put off, especially with big plants.",
+   "who": "you don't mind getting your hands dirty and know how to handle roots gently.",
+   "kit": [
+    {
+     "item": "Miracle-Gro indoor potting mix, 6 qt",
+     "price": "~$7",
+     "store": "Ace Hardware",
+     "url": "https://www.acehardware.com/p/7509482",
+     "amazon": "indoor potting mix 6 qt"
+    },
+    {
+     "item": "New pots (the customer's or ones you supply)",
+     "price": "price varies"
+    }
+   ],
+   "kit_note": "Lay down a tarp or old sheet before you start, and agree beforehand whether the customer supplies the new pots or you do.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for houseplant repotting. Check what local plant shops charge for repotting, and charge per plant with a higher price for large or heavy plants. Add the cost of soil and any pots you supply.",
+   "first_customers": [
+    "Offer to repot plants for friends and family in exchange for reviews and before-and-after photos.",
+    "Ask a local plant shop if you can leave flyers, since many shoppers buy a new pot but don't want to repot at home.",
+    "Post a simple per-plant price in your neighborhood group."
+   ],
+   "watch_out": "wear gloves, avoid breathing the dust from dry potting mix, and wash your hands afterward. Large plants and full pots are heavy, so lift with your legs and get help with anything big."
+  },
+  {
+   "name": "Cutting Sales",
+   "price": "~$11",
+   "skill": "Easy",
+   "first_job": "Rooting pothos cuttings to sell at a local plant swap",
+   "what": "You root cuttings from your own healthy houseplants in water, then sell them as rooted cuttings or small starter plants. Easy plants like pothos and philodendron root well in water.",
+   "who": "you already have healthy plants, are patient, and like watching things grow.",
+   "kit": [
+    {
+     "item": "Voiceine 5-piece glass propagation tube set",
+     "price": "~$11",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/15145302274",
+     "amazon": "glass propagation tubes"
+    }
+   ],
+   "kit_note": "Change the water regularly and keep the tubes in bright, indirect light. Only sell cuttings once they have healthy roots.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for plant cuttings. Check what similar rooted cuttings sell for at local plant swaps, markets and online listings, and price common plants lower than rarer ones.",
+   "first_customers": [
+    "Bring rooted cuttings to a local plant swap or plant group meetup to see which ones people want most.",
+    "List rooted cuttings for local pickup in your neighborhood group with clear photos of the roots.",
+    "Pair a cutting with a propagation tube as a small gift set ahead of the holidays."
+   ],
+   "watch_out": "some states require a nursery or plant dealer license to sell plants, so check with your state's department of agriculture first. Some plant varieties are patented and can't be propagated for sale, and only sell cuttings from pest-free plants."
+  },
+  {
+   "name": "Plant Styling",
+   "price": "~$8",
+   "skill": "Easy–moderate",
+   "first_job": "Choosing and arranging plants for a friend's new apartment",
+   "what": "You help people pick plants that suit their light and lifestyle, then pot and arrange them so the room looks finished. Some customers want a one-time setup; others want a plant picked out as a gift.",
+   "who": "you have an eye for decor, know which plants handle low light, and like helping people make their home feel good.",
+   "kit": [
+    {
+     "item": "Mainstays 6 in ceramic planter with saucer",
+     "price": "~$8",
+     "store": "Walmart",
+     "url": "https://www.walmart.com/ip/620075421",
+     "amazon": "6 inch ceramic planter with saucer"
+    },
+    {
+     "item": "Plants for each job",
+     "price": "price varies"
+    }
+   ],
+   "kit_note": "Agree on a budget for plants and pots before you shop, and keep receipts so the customer can see what they paid for.",
+   "charge_fallback": "We couldn't find a reliable national cost guide for plant styling. Check what local plant shops and interior decorators charge for plant consultations or setups, and charge a flat fee for your time plus the cost of the plants and pots.",
+   "first_customers": [
+    "Style a corner of your own home and a friend's, and use the photos to show what you do.",
+    "Offer new homeowners, renters and small offices a simple setup package in local groups.",
+    "Sell monthly plant-care visits as a holiday gift card, as our post suggested."
+   ],
+   "watch_out": "ask whether the home has pets or small kids before you choose plants, since some common houseplants are toxic to them. Check that heavy pots are stable and won't tip over."
+  }
+ ],
+ "getting_started": [
+  "**Check local rules.** Search \"[your city] business license\" to see whether you need one for a home-based business. Rules vary by city and state, and selling plants may need a state license.",
+  "**Pick one idea.** Choose the one that fits what you already do well, and get a few good reviews before adding a second.",
+  "**Put it in writing.** Send a short message with the price, date, what's included and who supplies plants, pots or soil before every job.",
+  "**Take payment simply.** Use a payment app or invoicing tool you already have, and send a receipt for every job.",
+  "**Track every dollar.** Side income is taxable, so keep a simple record of what you earn and spend, and set some aside."
+ ],
+ "tip": "Sell **monthly plant-care visits as a gift card** for the holidays. It's an easy gift for the plant lover who has everything.",
+ "faq": [
+  {
+   "q": "Which of these is cheapest to start?",
+   "a": "Plant sitting is free to start with a Google Calendar booking page. Repotting is next, at about $7 for a 6 qt bag of indoor potting mix."
+  },
+  {
+   "q": "Do I need a business license?",
+   "a": "It depends on your city and state. Many places require a general business license for paid services, even part-time, and some states require a nursery or plant dealer license to sell plants. Check your city's website and your state's department of agriculture before you start."
+  },
+  {
+   "q": "How much can I make?",
+   "a": "We don't promise earnings. We couldn't find reliable national price guides for these plant services, so check what local shops and services charge. As a beginner, expect to charge less until you have reviews and photos of your work."
+  },
+  {
+   "q": "Can I combine a few of these?",
+   "a": "Yes. Plant trims, repotting and plant sitting fit well together for the same customers, and terrariums and rooted cuttings can be sold side by side at markets."
+  },
+  {
+   "q": "Can teens do these?",
+   "a": "Yes, many of these work well for teens with a parent's OK, especially plant sitting for neighbors, rooting cuttings and making terrariums. Check your state's rules for working minors."
+  }
+ ],
+ "sources": [
+  {
+   "label": "D'Eco glass geometric terrarium, $23.99, Walmart #479031831",
+   "url": "https://www.walmart.com/ip/479031831"
+  },
+  {
+   "label": "Fiskars Softgrip micro-tip pruning snip, $20.87, Walmart #19792672",
+   "url": "https://www.walmart.com/ip/19792672"
+  },
+  {
+   "label": "Google Calendar: \"Anyone with a personal Google Account can create one booking page\"",
+   "url": "https://workspace.google.com/products/calendar/"
+  },
+  {
+   "label": "Miracle-Gro indoor potting mix 6 qt, $6.99, Ace Hardware #7509482",
+   "url": "https://www.acehardware.com/p/7509482"
+  },
+  {
+   "label": "Voiceine 5-piece glass propagation tubes, $11.00, Walmart #15145302274",
+   "url": "https://www.walmart.com/ip/15145302274"
+  },
+  {
+   "label": "Mainstays 6 in ceramic planter with saucer, $7.80, Walmart #620075421",
+   "url": "https://www.walmart.com/ip/620075421"
+  },
+  {
+   "label": "Taskrabbit: Gardening services (average around $22-28 per hour)",
+   "url": "https://www.taskrabbit.com/services/yardwork-removal/gardening"
+  }
+ ]
+}
